@@ -1,0 +1,17 @@
+2023-04-02 23:26:52.675513 - Initialized conversion of CBT323
+2023-04-02 23:26:52.834360 - Received CBT.V504.FILE323.PDS from FILE323.XMI 
+2023-04-02 23:26:52.837222 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:26:52.838415 - Found $$$ABOUT.txt (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/$$$ABOUT
+2023-04-02 23:26:52.839458 - Found $$$DESCR.txt (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/$$$DESCR
+2023-04-02 23:26:52.840435 - Found $$$INDEX.txt (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/$$$INDEX
+2023-04-02 23:26:52.841426 - Found $$$SYNTX.txt (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/$$$SYNTX
+2023-04-02 23:26:52.842354 - Found $RECEIVE.jcl (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/$RECEIVE
+2023-04-02 23:26:52.843348 - Found @FILE323.txt (text/plain) in CBT.V504.FILE323.PDS, moved to PDS/@FILE323
+2023-04-02 23:26:52.952867 - Found LOAD.xmi (application/xmit) in CBT.V504.FILE323.PDS
+2023-04-02 23:26:53.027750   - Received RECFM=U data, stored XMIT file as CBT323/LOAD.xmi
+2023-04-02 23:26:53.103035 - Found MACLIB.xmi (application/xmit) in CBT.V504.FILE323.PDS
+2023-04-02 23:26:53.121096   - Received to CBT323/REXXFP.MACLIB
+2023-04-02 23:26:53.405467 - Found SAMPLIB.xmi (application/xmit) in CBT.V504.FILE323.PDS
+2023-04-02 23:26:53.454182   - Received to CBT323/REXXFP.SAMPLIB
+2023-04-02 23:26:53.894477 - Found SRCLIB.xmi (application/xmit) in CBT.V504.FILE323.PDS
+2023-04-02 23:26:53.975089   - Received to CBT323/REXXFP.SRCLIB
